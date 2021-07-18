@@ -1,2 +1,2 @@
 # notes-app-nodejs
-A simple note taking app built with NodeJS
+A simple command-line note taking app built with NodeJS
